@@ -42,7 +42,7 @@ const fred = new Person({
 
       demo(subject) {
           return `'Today we are learning about ${subject} `
-      }
+      }o
 
       grade(student, subject) { 
           return `${student.name} receives a perfect score on ${subject}`
